@@ -5,7 +5,7 @@ Follow the on-screen menu to interact with the Library Management System. Explor
 # Features
 **Add a Book**
 Add new books to the library inventory by providing details such as title, author, ISBN, and quantity.
-**Remove a Book**
+    **Remove a Book**
 Remove books from the library inventory based on the title. 
 **Search for a Book**
 Search for books using the title. The system returns a list of matching books, providing quick access to relevant information.
